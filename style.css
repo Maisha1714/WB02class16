@@ -1,0 +1,16 @@
+@import
+a{
+  text-decoration-line:   underline;
+    text-decoration-style:wavy;
+    text-decoration-color: aqua;
+    text-decoration-thickness:5px;
+    text-transform: uppercase;
+}
+p{
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    text-shadow: -5px 7px 5px hotpink;
+    font-family:'Borel',Times New Roman,cursive
+}
